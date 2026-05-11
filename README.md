@@ -1,4 +1,4 @@
-⚡🛢️ ETAP-Based-Power-System-Simulation-for-Oil-and-Gas-Industrial-Plant-Expansion
+⚡🛢️ ETAP Based Power System Simulation for Oil and Gas Industrial Plant Expansion
 
 This project analyzes and simulates an industrial electrical power system for an oil and gas plant expansion using ETAP software. The study includes load flow analysis, motor starting analysis, voltage drop evaluation, transformer loading, and protection coordination to assess system performance and operational reliability. Multiple industrial loads such as compressors, pumps, heaters, UPS systems, and auxiliary equipment are modeled to evaluate real operating conditions. The simulation also examines generator capacity upgrades and cable sizing adjustments to maintain voltage stability and minimize power losses during steady-state and motor starting conditions.
 
